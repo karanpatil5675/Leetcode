@@ -25,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/karanpatil5675/Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/karanpatil5675/Leetcode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/karanpatil5675/Leetcode/tree/master/1236-n-th-tribonacci-number) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Array
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/karanpatil5675/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0898-transpose-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/0898-transpose-matrix) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
