@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/karanpatil5675/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/karanpatil5675/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/karanpatil5675/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/karanpatil5675/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/karanpatil5675/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/0898-transpose-matrix) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/karanpatil5675/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/karanpatil5675/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -112,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/karanpatil5675/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/karanpatil5675/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/karanpatil5675/Leetcode/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
